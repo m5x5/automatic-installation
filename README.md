@@ -1,2 +1,2 @@
 # automatic-installation
-This programm allows you to install some other programm automatically
+This programm allows you to install any other programms automatically
